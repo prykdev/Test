@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 using namespace std;
-
+// this is logs changes by mudit
 void leftrotate(int arr[],int n,int d){
     int temp[d];
     for(int i=0;i<d;i++)
